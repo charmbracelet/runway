@@ -2,15 +2,15 @@
 
 Open source our 3D models from Charm. Enjoy!
 
-## 50k
+## [50k](./50k)
 
-<img src="https://user-images.githubusercontent.com/25087/186230844-a6b865ff-2682-49e4-b960-6e5543a12a63.gif" width="350" alt="a little spinning star gem flanked by laurels">
+<a href="./50k"><img src="https://user-images.githubusercontent.com/25087/186230844-a6b865ff-2682-49e4-b960-6e5543a12a63.gif" width="350" alt="a little spinning star gem flanked by laurels"></a>
 
 A little scene celebrating ⭐50k across Charm repos. Blender format.
 
-## 30k
+## [30k](./30k)
 
-<img src="https://stuff.charm.sh/runway/30k.gif" width="350" alt="a little spinning star flanked by laurels">
+<a href="./30k"><img src="https://stuff.charm.sh/runway/30k.gif" width="350" alt="a little spinning star flanked by laurels"></a>
 
 A little scene celebrating ⭐30k across Charm repos. Blender format.
 
