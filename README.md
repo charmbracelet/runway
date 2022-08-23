@@ -1,6 +1,6 @@
 # Catwalk 🐈
 
-Open source our 3D models from Charm. Enjoy!
+Open source 3D models from Charm. Enjoy!
 
 ## [50k](./50k)
 
