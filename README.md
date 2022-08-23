@@ -1,8 +1,18 @@
-# Runway
+# Catwalk 🐈
 
-We're open sourcing our 3D models! Here's the first one as a Blender file, in celebration of ⭐30k across our repos 🙏. Enjoy!
+Open source our 3D models from Charm. Enjoy!
+
+## 50k
+
+<img src="https://user-images.githubusercontent.com/25087/186230844-a6b865ff-2682-49e4-b960-6e5543a12a63.gif" width="350" alt="a little spinning star gem flanked by laurels">
+
+A little scene celebrating ⭐50k across Charm repos. Blender format.
+
+## 30k
 
 <img src="https://stuff.charm.sh/runway/30k.gif" width="350" alt="a little spinning star flanked by laurels">
+
+A little scene celebrating ⭐30k across Charm repos. Blender format.
 
 ## Whatcha Think?
 
