@@ -19,8 +19,8 @@ A little scene celebrating ⭐30k across Charm repos. Blender format.
 We’d love to hear your thoughts on this project and we’re always happy to answer questions. Feel free to drop us a note:
 
 * [Twitter](https://twitter.com/charmcli)
-* [The Fediverse](https://mastodon.technology/@charm)
-* [Slack](https://charm.sh/slack)
+* [The Fediverse](https://mastodon.social/@charmcli)
+* [Discord](https://charm.sh/chat)
 
 ## License
 
