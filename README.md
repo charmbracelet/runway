@@ -1,4 +1,4 @@
-# Catwalk 🐈
+# Runway 🧔🏻
 
 Open source 3D models from Charm. Enjoy!
 
